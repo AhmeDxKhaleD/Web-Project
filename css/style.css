@@ -1,0 +1,16 @@
+body{
+    
+    direction: rtl;
+}
+
+footer{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+footer p {
+    
+    margin: 0;
+}
